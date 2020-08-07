@@ -1,3 +1,4 @@
+//https://www.kodaylak.com/2018/10/blogger-sayfa-goruntuleme-sayac.html
 $.each($('a[name]'), function(i, e) { 
 var elem = $(e).parent().find('#postviews'); 
 var blogStats = new Firebase("https://kaynakaraci.firebaseio.com/pages/id/" + $(e).attr('name')); 
