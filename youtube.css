@@ -126,17 +126,7 @@
   /* The code above is used to add a little shadow to the video making blend in better */
 }
 
-#close-btn {
-  /* ----- Text ----- */
-  color: grey;
-  font-size: 25px;
-  
-  /* ----- Positioning ----- */
-  position: fixed;
-  top: 3%;
-  right: 3%;
-  z-index: 2;
-  
+
   /* The code above is used to put the button on the upper right corner of the lightbox */
   
   /* ----- Transformations ----- */
